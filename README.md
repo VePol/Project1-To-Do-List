@@ -7,6 +7,7 @@ Application requirements:
 - It must be possible to remove elements from the list and mark the task as done
 - The application CSS and JavaScript must be specified in an external CSS file
 - The information in the list is stored in a browser, eg localstorage
+
 Additional functions:
 - You can implement a counter that shows the number of open items in the list
 - Try to come up with some meaningful way to hide and show elements in the app.
